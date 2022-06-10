@@ -20,4 +20,4 @@ async def album(ctx: SlashContext):
         # If response code is not ok (200), print the resulting http error code with description
         resp.raise_for_status()
 
-bot.run('OTcyMDUyMTc0OTg3MTk4NTA1.GSgl7b.2luVQcLfYdEPjrNiPMvN3KrtRnVUdGkGPFfOLk')
+bot.run('TOKEN')
